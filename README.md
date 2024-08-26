@@ -6,17 +6,18 @@ In this repository you'll find materials for the weekly assignments (just for th
 
 | Session | Topic | Assignment | Submission deadline |
 |---------|-------|-----------|-----------|
-| 01 | What is data science? | -- | --  | 
-| 02 | Version control and project management | 1 | Sep 26  | 
-| 03 | Data science ethics | -- | --  | 
-| 04 | Programming: Functions and debugging | 2 | Oct 6 (new)  | 
-| 05 | Relational databases and SQL | -- | --  | 
-| 06 | Web data and technologies | -- | --  | 
-| 07 | Web scraping and APIs | 3 | Nov 3 (new) | 
+| 01 | What is data science? | H1 | Sep 13  | 
+| 02 | Version control and project management | Q1 | Sep 17 | 
+| 03 | Programming: Functions and debugging | H2 | Sep 24  | 
+| 04 | Relational databases and SQL | Q2 | Oct 01  | 
+| 05 | Web data and technologies | Q3 | Oct 08  | 
+| 06 | Web scraping and APIs | H3 | Oct 15 | 
+| 07 | Model fitting and evaluation | Q4 | Oct 29 | 
 | 08 | Workshop: Tools for Data Science | -- | --  | 
-| 09 | Model fitting and evaluation | -- | --  | 
-| 10 | Visualization | 4 | Nov 24 (new)  | 
-| 11 | Automation, scheduling, and packages | -- | -- | 
-| 12 | Monitoring and communication | 5 | Dec 8 (new) | 
+| 09 | Visualization | H4 | Nov 12  | 
+| 10 | Automation, scheduling, and packages | Q5 | Nov 19 | 
+| 11 | Monitoring and communication | H5 | Nov 26 | 
+| 12 | Data science ethics | -- | --  | 
+
 
 
