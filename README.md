@@ -8,7 +8,7 @@ In this repository you'll find materials for the weekly assignments (just for th
 |---------|-------|-----------|-----------|
 | 01 | What is data science? | H1 | Sep 13  | 
 | 02 | Version control and project management | Q1 | Sep 17 | 
-| 03 | Programming: Functions and debugging | H2 | Sep 24  | 
+| 03 | Programming: Functions and debugging | H2 | Sep 27  | 
 | 04 | Relational databases and SQL | Q2 | Oct 01  | 
 | 05 | Web data and technologies | Q3 | Oct 08  | 
 | 06 | Web scraping and APIs | H3 | Oct 15 | 
