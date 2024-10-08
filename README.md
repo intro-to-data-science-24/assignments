@@ -8,10 +8,10 @@ In this repository you'll find materials for the weekly assignments (just for th
 |---------|-------|-----------|-----------|
 | 01 | What is data science? | H1 | Sep 13  | 
 | 02 | Version control and project management | Q1 | Sep 17 | 
-| 03 | Programming: Functions and debugging | H2 | Sep 27  | 
+| 03 | Programming: Functions and debugging | H2 | Sep 27, 6pm CET  | 
 | 04 | Relational databases and SQL | Q2 | Oct 01  | 
 | 05 | Web data and technologies | Q3 | Oct 08  | 
-| 06 | Web scraping and APIs | H3 | Oct 15 | 
+| 06 | Web scraping and APIs | H3 | Oct 18, 6pm CET | 
 | 07 | Model fitting and evaluation | Q4 | Oct 29 | 
 | 08 | Workshop: Tools for Data Science | -- | --  | 
 | 09 | Visualization | H4 | Nov 12  | 
