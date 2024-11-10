@@ -14,9 +14,9 @@ In this repository you'll find materials for the weekly assignments (just for th
 | 06 | Web scraping and APIs | H3 | Oct 18, 6pm CET | 
 | 07 | Model fitting and evaluation | Q4 | Oct 29 | 
 | 08 | Workshop: Tools for Data Science | -- | --  | 
-| 09 | Visualization | H4 | Nov 12  | 
+| 09 | Visualization | H4 | Nov 15, 6pm CET  | 
 | 10 | Automation, scheduling, and packages | Q5 | Nov 19 | 
-| 11 | Monitoring and communication | H5 | Nov 26 | 
+| 11 | Monitoring and communication | H5 | Nov 29, 6pm CET | 
 | 12 | Data science ethics | -- | --  | 
 
 
